@@ -96,9 +96,9 @@
 
 ## 4、在线体验
 
-!> 在线演示地址：[https://demo.excite.zxdmy.com](https://demo.excite.zxdmy.com)
+!> 在线演示地址：[http://demo.excite.zxdmy.com](http://demo.excite.zxdmy.com)
 
-!> 用户名：demo@zxdmy.com 密码：123456
+!> 用户名：demo@zxdmy.com　密码：123456
 
 ## 5、支持
 
